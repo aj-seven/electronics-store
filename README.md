@@ -15,7 +15,20 @@
 - Product reviews and ratings
 - Promotions and discounts
 - Admin dashboard
-- Responsive design and  email notifications
+- Responsive design and email notifications
+
+## Demo
+
+<img width="1679" height="885" alt="Screenshot_20251102_141009" src="https://github.com/user-attachments/assets/d1d7254f-0b05-49e9-b071-dde68352c10e" />
+
+<details closed>
+<summary>
+<h4> More here </h4>
+</summary>
+  <img width="1679" height="885" alt="Screenshot_20251102_135441" src="https://github.com/user-attachments/assets/4400a1d4-a969-4830-b1c7-f6a7eff95508" />
+  <img width="1679" height="885" alt="Screenshot_20251102_135348" src="https://github.com/user-attachments/assets/f12065ae-0a64-43f4-a0a1-c00cdd73bbd9" />
+  <img width="1679" height="885" alt="Screenshot_20251102_141028" src="https://github.com/user-attachments/assets/a809e495-934f-4e6c-af12-e5f6fb3581e5" />
+</details>
 
 ## Development
 
